@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Shahajjer_Hat</string>
+    <string name="login_title">Hello there, welcome back</string>
+    <string name="login_title2">Sign In to continue</string>
 </resources>
