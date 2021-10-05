@@ -20,8 +20,13 @@ public class LoginActivity extends AppCompatActivity {
 
 
     public void btngo(View view) {
-        Intent intent = new Intent(this,SignUp.class);
+        Intent intent = new Intent(this,CardView.class);
         startActivity(intent);
 
+    }
+
+    public void btnsignup(View view) {
+        Intent intent = new Intent(this,SignUp.class);
+        startActivity(intent);
     }
 }

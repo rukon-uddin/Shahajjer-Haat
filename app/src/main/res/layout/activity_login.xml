@@ -88,6 +88,7 @@
             android:background="#00000000"
             android:elevation="0dp"
             android:text="New user? SIGN UP"
+            android:onClick="btnsignup"
             android:textColor="#000"/>
 
     </LinearLayout>
