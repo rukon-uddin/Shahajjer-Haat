@@ -73,11 +73,13 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:id="@+id/go_login"
             android:text="Go"
             android:background="#000"
             android:textColor="#fff"
             android:layout_marginTop="5dp"
-            android:layout_marginBottom="5dp"/>
+            android:layout_marginBottom="5dp"
+            android:onClick="btngo"/>
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
