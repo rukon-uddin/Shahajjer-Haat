@@ -12,7 +12,7 @@
 </div>
 
 <div align = "center">
-_Shahajjer Haat_ is an app with the intention to help the underprevilidged society of Bangladesh. This app will decrease annual food waster and help to reduce rate of hungry people.
+_Shahajjer Haat_ is an app with the intention to help the underprevilidged society of Bangladesh. This app will decrease annual food wastage and help to reduce rate of hungry people.
 </div>
 
 
