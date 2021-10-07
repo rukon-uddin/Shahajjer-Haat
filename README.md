@@ -11,7 +11,7 @@
 </h3>
 <div align = "center">
 
-[![Github: @ShahajjerHaatApp](https://img.shields.io/badge/contact-%40shahajjerHaatApp-blue)](https://twitter.com/FastlaneTools)
+[![Github: @ShahajjerHaatApp](https://img.shields.io/badge/contact-%40shahajjerHaatApp-blue)](https://github.com/rukon-uddin/Shahjjer-hat-app)
 [![License](https://img.shields.io/github/license/rukon-uddin/Shahjjer-hat-app?color=Green)](https://github.com/rukon-uddin/Shahjjer-hat-app/blob/main/LICENSE)
 [![Language](https://img.shields.io/badge/Language-Java-brightgreen)](https://github.com/rukon-uddin/Shahjjer-hat-app)
 
