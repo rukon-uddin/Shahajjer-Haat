@@ -1,3 +1,9 @@
+<hr />
+<h1 align="center">
+  ✨ Welcome To Shahajjer Haat App</a> ✨
+</h1>
+<hr />
+
 <h3 align="center">
   <a href="https://github.com/rukon-uddin/Shahjjer-hat-app/blob/main/assets/logoText.png">
   <img src="https://github.com/rukon-uddin/Shahjjer-hat-app/blob/main/assets/logoText.png?raw=true" alt="fastlane Logo" width="500">
@@ -14,13 +20,6 @@
 <div align = "center">
 _Shahajjer Haat_ is an app with the intention to help the underprevilidged society of Bangladesh. This app will decrease annual food wastage and help to reduce rate of hungry people.
 </div>
-
-
-<hr />
-<h1 align="center">
-  ✨ Welcome To Shahajjer Haat App</a> ✨
-</h1>
-<hr />
 
 # Project Short Description
 
