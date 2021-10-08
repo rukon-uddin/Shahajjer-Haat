@@ -18,7 +18,7 @@
 </div>
 
 <div align = "center">
-Shahajjer Haat is an app with the intention to help the underprevilidged society of Bangladesh using Croudsourcing. This app will decrease annual food wastage and help to reduce rate of hungry people.
+Shahajjer Haat is an app with the intention to help the underprevilidged society of Bangladesh using **Crowdsourcing**. This app will decrease annual food wastage and help to reduce rate of hungry people.
 </div>
 
 # Project Short Description
