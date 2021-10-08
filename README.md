@@ -45,19 +45,28 @@ Shahajjer Haat is an app with the intention to help the underprevilidged society
 - Donator can set his/her location in the donators map.
 
 # Demo
-### Sign in and Sign up page
+## Sign in and Sign up page
 <div style="display:flex;" >
 	<img src="https://github.com/rukon-uddin/Shahjjer-hat-app/blob/main/assets/Capture2.png?raw=true" width="19%" >
 	<img src="https://github.com/rukon-uddin/Shahjjer-hat-app/blob/main/assets/loginSignup.gif?raw=true" width="19%" style="margin-left:20px;" >
 
-  <img src="https://github.com/rukon-uddin/Shahjjer-hat-app/blob/main/assets/firebaseAuthentication.png?raw=true0p;/"  style="margin-left:30px;" width = 500dp >
+  <img src="https://github.com/rukon-uddin/Shahjjer-hat-app/blob/main/assets/firebaseAuthentication.png?raw=true0p;/"  style="margin-left:10px;" width = 500dp >
 </div>
+<br>
 
-### Home page
+## Home page
 <div style="display:flex;" >
 	<img src="https://github.com/rukon-uddin/Shahjjer-hat-app/blob/main/assets/DonatorsAngels.png?raw=true" width="19%" >
-
 </div>
+<br>
+
+## Angel loking over donators around him in the angel map
+<div style="display:flex;" >
+	<img src="https://github.com/rukon-uddin/Shahjjer-hat-app/blob/main/assets/angelMap.gif?raw=true" width="19%" >
+</div>
+
+
+
 
 ## Team Id: CH401
   <b>Rukon Uddin Munna</b> <br>
