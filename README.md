@@ -18,12 +18,12 @@
 </div>
 
 <div align = "center">
-_Shahajjer Haat_ is an app with the intention to help the underprevilidged society of Bangladesh. This app will decrease annual food wastage and help to reduce rate of hungry people.
+Shahajjer Haat is an app with the intention to help the underprevilidged society of Bangladesh using **Crowdsourcing**. This app will decrease annual food wastage and help to reduce rate of hungry people.
 </div>
 
 # Project Short Description
 
- Right now there are two main problem which all the third world countries are facing. The two problems are _food wastage_ and _Poverty_. We cant solve poverty at large but we can solve a section of poverty which is **hunger**.
+Right now there are two main problem which all the third world countries are facing. The two problems are _food wastage_ and _Poverty_. We cant solve poverty at large but we can solve a section of poverty which is **hunger**.
 
  We have created an app that will help us solve food wastage and hunger problems. The app will connect those who waste food and those who stay hungry or didn’t get to eat any food the whole day. In between a middle man who helps the person with leftover foods to get it delivered to those who are hungry. We call the middle man **Angel**. And the person who donates his leftover food as **Donator**. 
 
