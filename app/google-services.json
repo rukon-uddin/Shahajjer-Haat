@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538700954275",
+    "project_id": "fir-practice-104da",
+    "storage_bucket": "fir-practice-104da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538700954275:android:9ed00dc5b5d1813f99dd16",
+        "android_client_info": {
+          "package_name": "com.example.Shahajjer_Haat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538700954275-dio5icq5dpjfnjtr260dbjfs29749419.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFzyARMyJWFn5WkhAuhXkARxn_yQYaPWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538700954275-dio5icq5dpjfnjtr260dbjfs29749419.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

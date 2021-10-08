@@ -3,11 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/imran/Documents/GitHub/Shahjjer-hat-app/app/src/main/res/drawable/button_shape.xml" value="0.21614583333333334" />
-        <entry key="..\:/Users/imran/Documents/GitHub/Shahjjer-hat-app/app/src/main/res/layout/activity_card_view.xml" value="0.25" />
-        <entry key="..\:/Users/imran/Documents/GitHub/Shahjjer-hat-app/app/src/main/res/layout/activity_login.xml" value="0.25" />
-        <entry key="..\:/Users/imran/Documents/GitHub/Shahjjer-hat-app/app/src/main/res/layout/activity_main.xml" value="0.2" />
-        <entry key="..\:/Users/imran/Documents/GitHub/Shahjjer-hat-app/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/rukon/AndroidStudioProjects/Firebasepractice/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/rukon/AndroidStudioProjects/Firebasepractice/app/src/main/res/drawable/ic_launcher_background.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/rukon/AndroidStudioProjects/Firebasepractice/app/src/main/res/drawable/popup_background.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/rukon/AndroidStudioProjects/Firebasepractice/app/src/main/res/layout/activity_angel_donator.xml" value="0.33" />
+        <entry key="..\:/Users/rukon/AndroidStudioProjects/Firebasepractice/app/src/main/res/layout/activity_angel_home.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/rukon/AndroidStudioProjects/Firebasepractice/app/src/main/res/layout/activity_angel_map.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/rukon/AndroidStudioProjects/Firebasepractice/app/src/main/res/layout/activity_angel_signin_reg.xml" value="0.33055555555555555" />
+        <entry key="..\:/Users/rukon/AndroidStudioProjects/Firebasepractice/app/src/main/res/layout/activity_donator_home.xml" value="0.33" />
+        <entry key="..\:/Users/rukon/AndroidStudioProjects/Firebasepractice/app/src/main/res/layout/activity_donator_map.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/rukon/AndroidStudioProjects/Firebasepractice/app/src/main/res/layout/activity_donator_signin_reg.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/rukon/AndroidStudioProjects/Firebasepractice/app/src/main/res/layout/activity_donator_singin_reg.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/rukon/AndroidStudioProjects/Firebasepractice/app/src/main/res/layout/activity_main.xml" value="0.33055555555555555" />
+        <entry key="..\:/Users/rukon/AndroidStudioProjects/Firebasepractice/app/src/main/res/layout/donator_info_popup.xml" value="0.3988718775181305" />
+        <entry key="..\:/Users/rukon/AndroidStudioProjects/Firebasepractice/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19675925925925927" />
       </map>
     </option>
   </component>

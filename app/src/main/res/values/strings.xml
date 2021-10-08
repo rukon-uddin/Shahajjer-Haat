@@ -1,5 +1,27 @@
 <resources>
-    <string name="app_name">Shahajjer_Hat</string>
-    <string name="login_title">Hello there, welcome back</string>
-    <string name="login_title2">Sign In to continue</string>
+    <string name="app_name">Shahajjer_Haat</string>
+    <string name="angel_bt">Angel</string>
+    <string name="donate_bt">Donate</string>
+    <string name="angel_email">Email</string>
+    <string name="angel_pass">Password</string>
+    <string name="donate_email">Email</string>
+    <string name="donate_password">Password</string>
+    <string name="ange_singin_bt">Sign in</string>
+    <string name="angel_signin_reg">Register</string>
+    <string name="donate_signin_signin">Signin</string>
+    <string name="donate_signin_reg">Register</string>
+    <string name="angel_home_Welcome">Welcome Angel</string>
+    <string name="donator_home_welcome">Wecome donator</string>
+    <string name="title_activity_angel_map">AngelMapActivity</string>
+    <string name="angel_home_nearbyDonator_bt">Nearby Donators</string>
+    <string name="title_activity_donator_map">DonatorMap</string>
+    <string name="donato_home_donateFood">Donate Food</string>
+    <string name="donatorHome_DonateClothes">Donate Clothes</string>
+    <string name="donatorHome_donatemoney">Donate Money</string>
+    <string name="donatorMap_setLocation">Set Location</string>
+    <string name="popup_name">Rukon</string>
+    <string name="popup_message">Rukon wants to donate his left overt foods,\n Do you want to take it?</string>
+    <string name="popup_cancel_bt">Cancel</string>
+    <string name="popup_okay_bt">Okay</string>
+    <string name="kkk">TODO</string>
 </resources>
