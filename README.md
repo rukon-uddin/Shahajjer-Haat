@@ -45,6 +45,12 @@ Shahajjer Haat is an app with the intention to help the underprevilidged society
 - Donator can set his/her location in the donators map.
 
 # Demo
+### Sign in and Sign up page
+<div style="display:flex;" >
+	<img src="https://github.com/rukon-uddin/Shahjjer-hat-app/blob/main/assets/Capture.PNG?raw=true" width="19%" >
+	<img src="https://github.com/rukon-uddin/Shahjjer-hat-app/blob/main/assets/loginSignup.gif?raw=true" width="19%" style="margin-left:10px;" >
+</div>
+
 
 
 ## Team Id: CH401
