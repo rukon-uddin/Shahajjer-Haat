@@ -40,17 +40,16 @@ Shahajjer Haat is an app with the intention to help the underprevilidged society
 - The user can sign in or sign up. The information will be stored in firebase.
 - The user can either act as a donator or an angel after successfully signing in.
 - The donator can donate _food_, _clothes_, or _money_
-- The angel can see nearby donators in the angel's map and send a request to the donator to collect the food.
+- The angel can see **nearby** donators based on his current location, in the angel's map and send a request to the donator to collect the food.
 - The request will be sent as a notification to the donator's mobile and if the donator accepts the angel will be able to see his phone number.
 - Donator can set his/her location in the donators map.
+- All the necessary informations are stored in firebase; like email, location points, user id.
 
 # Demo
 ## Sign in and Sign up page
 <div style="display:flex;" >
 	<img src="https://github.com/rukon-uddin/Shahjjer-hat-app/blob/main/assets/Capture2.png?raw=true" width="19%" >
-	<img src="https://github.com/rukon-uddin/Shahjjer-hat-app/blob/main/assets/loginSignup.gif?raw=true" width="19%" style="margin-left:20px;" >
-
-  <img src="https://github.com/rukon-uddin/Shahjjer-hat-app/blob/main/assets/firebaseAuthentication.png?raw=true0p;/"  style="margin-left:10px;" width = 500dp >
+	<img src="https://github.com/rukon-uddin/Shahjjer-hat-app/blob/main/assets/loginSignup.gif?raw=true" width="19%" style="margin-left:100px;" >
 </div>
 <br>
 
@@ -73,9 +72,10 @@ Shahajjer Haat is an app with the intention to help the underprevilidged society
 </div>
 <br>
 
-## Firebase table
+## Firebase
 <div style="display:flex;" >
   <img src="https://github.com/rukon-uddin/Shahjjer-hat-app/blob/main/assets/firebaseTable.png?raw=true"  style="margin-left:10px;" width = 500dp >
+    <img src="https://github.com/rukon-uddin/Shahjjer-hat-app/blob/main/assets/firebaseAuthentication.png?raw=true0p;/"  style="margin-left:10px;" width = 500dp >
 </div>
 
 <br>
