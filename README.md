@@ -18,7 +18,7 @@
 </div>
 
 <div align = "center">
-_Shahajjer Haat_ is an app with the intention to help the underprevilidged society of Bangladesh. This app will decrease annual food wastage and help to reduce rate of hungry people.
+Shahajjer Haat is an app with the intention to help the underprevilidged society of Bangladesh using Croudsourcing. This app will decrease annual food wastage and help to reduce rate of hungry people.
 </div>
 
 # Project Short Description
@@ -30,6 +30,22 @@ _Shahajjer Haat_ is an app with the intention to help the underprevilidged socie
  If the app is on air, we believe it will surely have a good impact on both problems, mentioned above.
  <br>
  <br>
+
+# App Description
+- Our app has two users we named them _Angels_ and _Donators_.
+- **Donators** are those who will donate there leftover foods from home or restaturants. The donator can also donate there useless clothes.
+- **Angels** are those who will take those leftover foods or clothes from the donators and give the food to the people in need.
+
+# App Features
+- The user can sign in or sign up. The information will be stored in firebase.
+- The user can either act as a donator or an angel after successfully signing in.
+- The donator can donate _food_, _clothes_, or _money_
+- The angel can see nearby donators in the angel's map and send a request to the donator to collect the food.
+- The request will be sent as a notification to the donator's mobile and if the donator accepts the angel will be able to see his phone number.
+- Donator can set his/her location in the donators map.
+
+# Demo
+
 
 ## Team Id: CH401
   <b>Rukon Uddin Munna</b> <br>
@@ -44,7 +60,6 @@ _Shahajjer Haat_ is an app with the intention to help the underprevilidged socie
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>sakib.eee@ulab.edu.bd</a> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Phone: 01633138380</a> <br>
 
-### Team Id: CH401
 
 
 ## **_Shahajjer Haat_ team**
