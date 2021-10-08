@@ -50,7 +50,7 @@ Shahajjer Haat is an app with the intention to help the underprevilidged society
 	<img src="https://github.com/rukon-uddin/Shahjjer-hat-app/blob/main/assets/Capture2.png?raw=true" width="19%" >
 	<img src="https://github.com/rukon-uddin/Shahjjer-hat-app/blob/main/assets/loginSignup.gif?raw=true" width="19%" style="margin-left:20px;" >
 
-  <img src="https://github.com/rukon-uddin/Shahjjer-hat-app/blob/main/assets/firebaseAuthentication.png?raw=true0p;/"  style="margin-left:30px;" >
+  <img src="https://github.com/rukon-uddin/Shahjjer-hat-app/blob/main/assets/firebaseAuthentication.png?raw=true0p;/"  style="margin-left:30px;" width = 500dp >
 </div>
 
 ### Home page
