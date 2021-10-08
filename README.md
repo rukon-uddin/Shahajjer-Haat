@@ -60,11 +60,26 @@ Shahajjer Haat is an app with the intention to help the underprevilidged society
 </div>
 <br>
 
-## Angel loking over donators around him in the angel map
+## Donators donating food using donators map
+<div style="display:flex;" >
+	<img src="https://github.com/rukon-uddin/Shahjjer-hat-app/blob/main/assets/donatorDonatingFood.gif?raw=true" width="19%" >
+</div>
+<br>
+
+## Angel loking over donators and sending request
 <div style="display:flex;" >
 	<img src="https://github.com/rukon-uddin/Shahjjer-hat-app/blob/main/assets/angelMap.gif?raw=true" width="19%" >
+  	<img src="https://github.com/rukon-uddin/Shahjjer-hat-app/blob/main/assets/sendingRequest.gif?raw=true" width="19%"  style="margin-left:100px;">
+</div>
+<br>
+
+## Firebase table
+<div style="display:flex;" >
+  <img src="https://github.com/rukon-uddin/Shahjjer-hat-app/blob/main/assets/firebaseTable.png?raw=true"  style="margin-left:10px;" width = 500dp >
 </div>
 
+<br>
+<br>
 
 
 
