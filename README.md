@@ -112,7 +112,7 @@ Shahajjer Haat is an app with the intention to help the underprevilidged society
 <a href='https://github.com/rukon-uddin'>
 <img src='https://avatars.githubusercontent.com/u/57187277?v=4' width='140px;'>
 </a>
-<h4 align='center'><a href='https://github.com/rukon-uddin'>Rukon Uddin</a></h4>
+<h4 align='center'><a href='https://github.com/rukon-uddin'>Rukon Uddin (Team lead)</a></h4>
 </td>
 <td id='sakib'>
 <a href='https://www.facebook.com/sakib.specific'>
